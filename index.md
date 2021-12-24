@@ -7,6 +7,6 @@ I have done my PhD research (2015-2018) in Computer Science (Computational Seman
 I have around 9 years of working experience in industrial companies such as Ericsson and Nokia. My last position in Ericsson company was Implementation Manager. I have also consulted companies in Geospatial Information System (GIS) for around 5 years which had the outcome of 9 successful national projects for the Iran Ministries of Energy and Agriculture. For more details on my industrial experiences and the relevant recommendations please visit my Linkedin profile.
 
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Check out my [contact page](https://sites.google.com/view/mehdimirzapour/contact)!
