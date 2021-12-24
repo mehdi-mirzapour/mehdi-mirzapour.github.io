@@ -1,36 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to my website
 
-You can use the [editor on GitHub](https://github.com/mehdi-mirzapour/mehdi-mirzapour.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My main fields of interest are Natural Language Processing/Understanding and Computational Linguistics/Semantics. I am interested in both (logical) rule-based and statistical approaches. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have done my PhD research (2015-2018) in Computer Science (Computational Semantics) at University of Montpellier, France. I have a B.Sc. in Electronic Engineering from SBU and a Master in Logic from ATU in Iran. My PhD title is "Modeling Preferences for Ambiguous Utterance Interpretations" under the supervisions of Prof. Christian Retoré and Dr. Jean-Philippe Prost. Currently, I am working as a Research and Development Engineer at ContentSide (Lyon, France) in which I research on NLP/Semantic Platform. We use deep learning algorithms and SOTA architectures such as Transformers, LSTMs, CNNs and MLPs for variety of different NLP tasks. Before that, I was working in Tours University in the project TALAD, funded by the French National Research Agency (ANR), a multidisciplinary research that brings together speech analysts and automatic natural language processing ​​around the issue of detection and analysis of nominations in media speech and politics using machine learning models for coreference resolution. I, also, did a Postdoc at LIRMM, working at PractiKPharma, a collaborative research project funded by the French NationalResearch Agency (ANR) in the biomedical domain of Pharmacogneomics in which I was more focused on French Contextualizer using NLP techniques and Ontology technologies.
 
-### Markdown
+I have around 9 years of working experience in industrial companies such as Ericsson and Nokia. My last position in Ericsson company was Implementation Manager. I have also consulted companies in Geospatial Information System (GIS) for around 5 years which had the outcome of 9 successful national projects for the Iran Ministries of Energy and Agriculture. For more details on my industrial experiences and the relevant recommendations please visit my Linkedin profile.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mehdi-mirzapour/mehdi-mirzapour.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
