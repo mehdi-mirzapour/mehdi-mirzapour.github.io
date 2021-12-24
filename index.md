@@ -1,6 +1,6 @@
 ## Welcome to my personal website
 
-My name is [Mehdi Mirzapour](https://www.linkedin.com/in/mehdimirzapour/). My main field of interests are Deep Learning and Symbolic AI. My main interest is finding semantic information that is hidden in the texts, images and voices. I have done some projects in NLP and Emotional Voice Recognition fields.
+My name is [Mehdi Mirzapour](https://www.linkedin.com/in/mehdimirzapour/). My main field of interests are Deep Learning and Symbolic AI. Currently, I am working on different approaches on finding semantic information that is hidden in the texts, images and voices.
 
 I have done my PhD research (2015-2018) in Computer Science (Computational Semantics, NLP) at Montpellier Univ, France. I have also done two postdocs in Montpellier Univ and Tours University. Currently I am working as NLP R&D Engineer at ContentSide, France and Semanticist advisor (part-time) for Pat Inc Palo Alto, USA.
 
